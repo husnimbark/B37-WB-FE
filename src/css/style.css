@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-color: #f2f2f2 !important;
+  font-family: "Avenir" !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.text-red {
+  color: #BD0707;
+}
+
+.bg-red {
+  background-color: #BD0707;
+}
+
+.text-price {
+  color: #974A4A;
+}
+
+.bg-card {
+  background-color: #F6DADA;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.dropdown-toggle::start {
+  display: none !important;
+}
